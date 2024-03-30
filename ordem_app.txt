@@ -1,0 +1,17 @@
+Inserir no banco de dados "app" a seguinte ordem de dados por tabela:
+
+PAGES
+
+EVENTS
+
+DEVICES
+
+CAMPAIGNS
+
+CAMPAING_EVENTS
+
+AD_EVENTS
+
+USER_aCTIVITIES
+
+AD_CAMPAIGNS
